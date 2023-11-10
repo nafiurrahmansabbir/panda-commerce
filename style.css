@@ -19,3 +19,54 @@
 .container{
     margin-bottom: 100px;
 }
+#ca-h1{
+    color: black;
+    
+
+}
+.cat1{
+    background-image: linear-gradient(to bottom, rgb(240, 210, 156) 0%,rgb(236, 168, 42) 100%);
+    
+}
+.cat2{
+    background-image: linear-gradient(to bottom, #f3659e 0%,#FF136F 100%);
+    
+}
+.cat3{
+    background-image: linear-gradient(to bottom, rgb(147, 198, 240) 0%,steelblue 100%);
+    
+}
+.cat1,.cat2,.cat3{
+    padding: 10px 30px;
+    border-radius: 5px;
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 40%;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 5px rgb(178, 189, 199);
+}
+.subscribe-button{
+    background-image: linear-gradient(to bottom, #2b1f24 0%,#4d172b 100%);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 3px 10px;
+}
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: grey;
+}
+
+footer p{
+    font-size: 75%;
+    display: flex;
+    justify-content: center;
+    color: rgb(31, 29, 29);
+}
